@@ -3,7 +3,7 @@
 https://ieeexplore.ieee.org/document/8121994/
 
 
-We have used caffe mode to extract deep features from video using matlab script "oneFileFeatures...".
+We have used caffe model to extract deep features from video using matlab script "oneFileFeatures...".
 
 Each CSV file represents features of one video.
 
